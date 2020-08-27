@@ -11,7 +11,7 @@ TIMEZONE = 'America/Chicago'
 
 DEFAULT_LANG = 'en'
 
-THEME = 'pelican-themes/blueidea'
+THEME = 'pelican-themes/graymill'
 PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['readtime', 'neighbors']
 STATIC_PATHS = ['images']
