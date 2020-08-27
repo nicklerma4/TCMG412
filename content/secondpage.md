@@ -1,25 +1,8 @@
-Title: The Internet Facilitating People to Become More Radical
+Title: Insights
 Date: 8-24-2020 10:20
-Category: The Internet Facilitating People to Become More Radical
+Category: Insights
 
-As political tension continues to rise and as people take their angst online, it's important to know
-how this kind of radicalization takes place online. When people are generally introduced to
-radical content online it's important to know when people decide to take actions themselves and
-become ‘activists’.
- I believe the internet has played a huge role in categorizing people and initially giving
-them the ability to immerse themselves in extreme content and networks of people that have the
-same belief, which creates a mindset that ‘everyone’ thinks like this.
-It’s also important to note that most online actions are initially started by offline
-interactions, most people are initially drawn to radical ideas when they have a desire to ‘belong
-to something’ as a study by VOXpol shows. The internet can serve as a gateway for individuals
-to engage in extremist activities offline, connecting adherents in the online community to the
-offline world. The internet helps create a mask that encourages people to be more toxic than they
-would in a normal social setting, people tend to feel like there are no repercussions due to an
-increased sense of anonymity and privacy on the internet.
-People that are involved in extremist action such as far-right activists are generally
-known to recruit potential candidates through face to face relationships, sharing their ideology
-and reaffirming their extremist beliefs. While the internet plays a secondary role in radicalizing
-U.S. extremists to act violently.
-The internet has brought about so many changes to our society, some for the better others
-for worse. It’s our responsibility as a society to know how the internet help promote violent
-actions against others.
+An increasingly common way for policymakers and practitioners to draw insight is coming from the insights of former extremists. These insights provide a peak into the contours of violent extremism and terrorism. Some researchers are concerned for this increasing way for information, while others argue that former extremist can provide valuable insight into many concerns on terrorism. Researchers are addressing key questions in terrorism and extreme studies like radicalization and disengagement. 
+Researchers find these political extremists online. They are trying to bring the extremist to the table to ask questions but are struggling to do so. The researchers decide to understand the “interplay” between the internet and violent extremism. The researchers are conducting interviews with right-wing extremists and their use of the internet and connections between their online world and offline world. 
+In-depth interviews were conducted with 10 former extremists who were involved in violent skinhead groups. They, at once in their life, used violence in the name of an extreme ideology and associated a violent movement.
+These extremists have given up on their old ways and now claim to be over their past beliefs. They identify themselves as being “off the grid”. They are not on social media or public events, meaning they are no longer using technology to advocate for political extremism. Although they are no longer extremist, for now, they are not using the internet to do anything they say. 
